@@ -1,35 +1,25 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>Bare - Start Bootstrap Template</title>
-
+    
+    <title>HTML Start Template by Nightworld Design</title>
+    
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <style>
-      body {
-        padding-top: 54px;
-      }
-      @media (min-width: 992px) {
-        body {
-          padding-top: 56px;
-        }
-      }
-
-    </style>
-
+    <link href="css/bootstrap.min.css" rel="stylesheet">        
+    
+    <!-- Animate CSS -->
+    <link href="css/animate.min.css" rel="stylesheet">        
+    
+    <!-- Hover CSS -->
+    <link href="css/hover.min.css" rel="stylesheet">        
   </head>
   
   <body>
-
+      
     <!-- Page Content -->
     <div class="container">
         
@@ -41,9 +31,14 @@
         
     </div>
 
-    <!-- Bootstrap core JavaScript -->
+    <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- BS 4 -->
+    <script src="/js/bootstrap.min.js"></script>
+    
+    <!-- WOW JS -->
+    <script src="js/wow.min.js"></script>
 
   </body>
 
