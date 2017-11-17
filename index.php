@@ -39,6 +39,9 @@
     
     <!-- WOW JS -->
     <script src="js/wow.min.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="js/custom.min.js"></script>
 
   </body>
 
